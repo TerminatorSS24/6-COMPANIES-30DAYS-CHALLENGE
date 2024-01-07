@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/gamer/OneDrive/Documents/6 COMPANIES 30DAYS CHALLENGE",
-      "program": "c:/Users/gamer/OneDrive/Documents/6 COMPANIES 30DAYS CHALLENGE/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
