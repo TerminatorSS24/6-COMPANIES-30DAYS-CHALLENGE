@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/gamer/OneDrive/Documents/6 COMPANIES 30DAYS CHALLENGE/Atlassian/Day 3",
+      "program": "c:/Users/gamer/OneDrive/Documents/6 COMPANIES 30DAYS CHALLENGE/Atlassian/Day 3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
